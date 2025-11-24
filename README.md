@@ -1,6 +1,6 @@
 # Simple-Travel-Agency---JMeter-Performance-Testing
+<img src="https://media.giphy.com/media/3ornjSL2sBcPflIDiU/giphy.gif" width="600"/>
 
-<img src="https://media.giphy.com/media/3o7aD2saalBwwftBIY/giphy.gif" width="600"/>
 
 ---
 
@@ -35,7 +35,6 @@ Performance Test Suite for BlazeDemo (Simple Travel Agency) using **Apache JMete
 ## 🏗 Project Structure
 
 Simple-Travel-Agency-Performance/
-│
 ├── Simple Travel Agency _DemoPLaze.jmx # Main test plan
 ├── tests/
 │ ├── load/
@@ -136,15 +135,6 @@ This project can be enhanced by adding:
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/HabibaRagabmetwaly/HabibaRagabmetwaly/output/github-contribution-grid-snake.svg" alt="snake animation" />
-</p>
-
----
-
-## 📈 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=HabibaRagabmetwaly&show_icons=true&theme=radical" width="45%" />
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=HabibaRagabmetwaly&layout=compact&theme=radical" width="45%" />
 </p>
 
 ---
