@@ -1,6 +1,6 @@
 # Simple-Travel-Agency---JMeter-Performance-Testing
 
-<img src="https://pin.it/48RVmUUDE" width="600"/>
+<img src="https://www.intelexsystems.com/App_Themes/Default/Images/intlex_staffing_3.gif" width="600"/>
 
 
 
@@ -132,13 +132,6 @@ This project can be enhanced by adding:
 </p>
 
 ---
-
-## 🐍 Contribution Snake Animation
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/HabibaRagabmetwaly/HabibaRagabmetwaly/output/github-contribution-grid-snake.svg" alt="snake animation" />
-</p>
-
 ---
 
 ## 👩‍💻 Author
