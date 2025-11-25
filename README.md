@@ -36,22 +36,23 @@ Performance Test Suite for BlazeDemo (Simple Travel Agency) using **Apache JMete
 
 ## 🏗 Project Structure
 
+```
 Simple-Travel-Agency-Performance/
-├── Simple Travel Agency _DemoPLaze.jmx # Main test plan
+├── Simple Travel Agency _DemoPLaze.jmx          # Main test plan
 ├── tests/
-│ ├── load/
-│ ├── stress/
-│ ├── spike/
-│ └── endurance/
+│   ├── load/
+│   ├── stress/
+│   ├── spike/
+│   └── endurance/
 │
 ├── reports/
-│ ├── load/
-│ ├── stress/
-│ ├── spike/
-│ └── endurance/
+│   ├── load/
+│   ├── stress/
+│   ├── spike/
+│   └── endurance/
 │
 └── README.md
-
+```
 ---
 
 ## 📊 Included Test Scenarios
