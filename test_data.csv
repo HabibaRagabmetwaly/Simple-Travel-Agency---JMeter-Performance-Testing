@@ -1,0 +1,4 @@
+departure,destination,name,address,city,state,zip,cardType,creditCardNumber,month,year,nameOnCard
+Boston,Cairo,John Doe,123 Main St,Boston,MA,02115,visa,1234567890123456,12,2025,John Doe
+Paris,Buenos Aires,Jane Smith,456 Oak Ave,Paris,,75001,visa,1234567890123457,11,2026,Jane Smith
+London,Berlin,Mike Johnson,789 Pine Rd,London,,WC1,visa,1234567890123458,10,2027,Mike Johnson
